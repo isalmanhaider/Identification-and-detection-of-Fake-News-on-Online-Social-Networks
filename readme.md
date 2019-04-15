@@ -38,7 +38,7 @@ topics on Twitter is related to news on current affairs. Unfortunately, there ar
 misuse social networks by spreading fake news, rumors and propagating misinformation.
 
 Fake news is news whose context has been intentionally changed and manipulated in
-order to influence the readers’ opinions on facts of the events taking place in the real world
+order to influence the readers’ opinions on facts of the events taking place in the real world.
 
 The problem addressed is the explosive growth of Fake news is news whose context has
 been intentionally changed and manipulated in order to influence the readers’ opinions on facts
@@ -47,7 +47,8 @@ As the quote says "Falsehood flies and the truth comes limping after it" and in 
 several algorithms and models have been proposed even a Fake News Challenge is conducted
 every year for developing models and algorithms for the identification and eradication of fake
 news on the internet. The best performing so far are CNN and RNN based models achieving an
-unprecedented accuracy of 83.4%
+unprecedented accuracy of 83.4%.
+
 In order to track the spread of hoaxes a model was proposed by Tambuscio that uses the
 following four parameters: spreading rate, gullibility, the probability to verify a hoax, and
 forgetting one's current belief. Now on average, almost every organization employ social media
@@ -55,3 +56,8 @@ accounts on Twitter, Facebook, and Instagram for the purposes of announcing corp
 information such as earnings reports and new product releases to get maximum reach.
 Consumers, investors, and other stakeholders take these news messages as seriously as they
 would for any other mass media.
+
+## Importance
+The importance of this real life problem can assessed from this that even the World Economic Forum warned about “​digital wildfires” AKA fake news that will be one of the biggest threats faced by society. ​ If fake news can overturn US General Elections, or can break our a CHAOS or public RIOTS it can do harm of any nature to anyone and anything. It is a digital bacteria that can erupt and penetrate to thousands and millions of people across the globe within minutes. Would you put your life and thoughts gets polarised or hoaxed by fake news? This question isn’t difficult to answer. As confessed by CEO of Facebook, Mark Zuckerberg, himself, that during the 2016 US presidential election campaign 126 million American users on Facebook were shown Russian-backed, politically-oriented fake news stories solely for the purpose to hoaxed their thoughts. And this number exponentially increases when those users without verifying diffuse/share it further among their circles both online and offline as only internet users cannot accurately represent the demographics of the entire population. It will be highly beneficial and of great use, if there is a way to verify and validate news and bifurcate authentic and fake news. The information that people listen to and share in social media is largely influenced by their social circles and relationships they form online.
+
+In addition, social media is vastly used for anti-social behaviors such as cyberbullying, propaganda, hate crimes, and for radicalization and recruitment of individuals into terrorist organizations, conservative and influential groups, etc which is very alarming for society.
