@@ -63,7 +63,7 @@ The importance of this real life problem can assessed from this that even the Wo
 In addition, social media is vastly used for anti-social behaviors such as cyberbullying, propaganda, hate crimes, and for radicalization and recruitment of individuals into terrorist organizations, conservative and influential groups, etc which is very alarming for society.
 
 
-## 4. Types of Fake News
+## Types of Fake News
 Broadly there are 5 types of misinformation that are weaponized into fake news.
 
 ### 1. Satire: When deceptively packaged as a legitimate news story.
