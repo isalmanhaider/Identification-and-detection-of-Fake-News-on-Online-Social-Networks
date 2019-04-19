@@ -66,6 +66,8 @@ In addition, social media is vastly used for anti-social behaviors such as cyber
 ## Types of Fake News
 Broadly there are 5 types of misinformation that are weaponized into fake news.
 
+<img src="https://raw.githubusercontent.com/isalmanhaider/Identification-and-detection-of-Fake-News-on-Online-Social-Networks/master/images/types-of-fakenews.jpeg" alt="Types of Fake News" max-width="640px">
+
 ### 1. Satire: When deceptively packaged as a legitimate news story.
 Satire is different from fake news in that its purpose is to entertain or inspire consumers, rather than to deceive them through text writing or art designs/graphics. However because the contents are false even despite being entertainment-oriented in most cases and reveals its own deceptiveness to the consumes, some papers term satire as fake news. There are websites that utter a claim to be satirists but in contrast they do not admit or advertise openly themselves as satire, therefore suggesting an intent to deceive. An example of satire is America's finest news source, The Onion, that is known for Satirical news article. The Onion is an American satirical digital media company and newspaper organization that publishes articles on international, national, and local news bringing huge traffic of 200k per month.
 
